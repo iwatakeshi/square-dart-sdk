@@ -1,0 +1,15 @@
+# swagger.model.UpdateWageSettingResponse
+
+## Load the model package
+```dart
+import 'package:swagger/api.dart';
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**wageSetting** | [**WageSetting**](WageSetting.md) |  | [optional] [default to null]
+**errors** | [**List&lt;Error&gt;**](Error.md) | The errors that occurred during the request. | [optional] [default to []]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+

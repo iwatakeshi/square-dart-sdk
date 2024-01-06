@@ -1,0 +1,17 @@
+# openapi.model.LoyaltyPromotionIncentive
+
+## Load the model package
+```dart
+import 'package:square_dart_sdk/api.dart';
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**type** | **String** | The type of points incentive. | 
+**pointsMultiplierData** | [**LoyaltyPromotionIncentivePointsMultiplierData**](LoyaltyPromotionIncentivePointsMultiplierData.md) |  | [optional] 
+**pointsAdditionData** | [**LoyaltyPromotionIncentivePointsAdditionData**](LoyaltyPromotionIncentivePointsAdditionData.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
